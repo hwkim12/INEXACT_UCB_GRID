@@ -1,4 +1,4 @@
-# UCB_GRID
+# Captions for the figures
 
 This repository includes updated plots for the 2025 UAI submission "Bayesian Optimization with Inexact Acquisition:
 Is Random Grid Search Sufficient?"

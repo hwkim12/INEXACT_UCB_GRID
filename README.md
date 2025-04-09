@@ -5,3 +5,7 @@
 > BO_MICHALEWICZ_CUM_REG.png and BO_MICHALEWICZ_COMP_TIME.png demonstrate the cumulative regret and computation time comparison of GP-UCB algorithms based on the following acquisition function solvers: uniform random grid search(Uniform), Nelder-Mead(NM), Conjugate Gradient Descent (CG), and L-BFGS-B on a 10-dimensional Michalewicz objective function.
 
 > BO_UCB_GRID_automl_CUM_REG.pdf and BO_UCB_GRID_automl_COMP_TIME.pdf showcase the effectiveness of uniform random grid search as the acquisition function solver for an 11-dimensional machine learning model hyperparameter tuning problem.
+
+> BO_UCB_GRID_CUM_REG_SMALL.png and BO_UCB_GRID_COMP_TIME_SMALL.png are simulation results with a smaller number of initial design points following the heuristics ($n = 2d$)
+
+> automl_uniform_grid_size_exp.pdf is the experiment where we test the effect of using linearly increasing grid size versus a fixed grid size(size of 100) in the 11-dimensional machine learning hyperparameter tuning problem. 

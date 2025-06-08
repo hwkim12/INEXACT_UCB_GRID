@@ -1,4 +1,6 @@
-# Captions for the figures
+# Repository to reproduce numerical experiments 
+
+> BO_UCB_GRID_ERROR_BAR.py contains Python code to reproduce the results in Section 5 of the manuscript. 
 
 > BO_UCB_GRID_UPDATED.png and BO_COMP_TIME_GRID_UPDATED contain the updated figures of Figures 1 and 2 in the submitted manuscript.
 

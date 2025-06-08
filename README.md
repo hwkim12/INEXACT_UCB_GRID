@@ -1,4 +1,4 @@
-# Repository to reproduce numerical experiments 
+# Inexact Acquisition Function Optimization via Random Grid Search 
 
 > BO_UCB_GRID_ERROR_BAR.py contains Python code to reproduce the results in Section 5 of the manuscript. 
 
